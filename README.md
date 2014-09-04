@@ -3,6 +3,8 @@ SWD_Assignment
 
 The Server Side Web Assignment for my BSc Ordinary Degree in Digital Technologies and Design in Applications Development
 
+Assignment Breif:
+
 Build a web service in PHP. While the data that you will expose can be anything of your choosing, it is suggested that your output matches the format expected by your mobile app from the mobile web applications module, so that you can hook both applications together if you wish, however this is not a requirement!
 
 Your application will have the following features:
